@@ -1,0 +1,14 @@
+{
+  "name": "doxray-test-repo",
+  "version": "0.1.0",
+  "homepage": "https://github.com/himedlooff/doxray-test-repo",
+  "authors": [
+    "Mike Morici <himedlooff@yahoo.com>"
+  ],
+  "description": "A repo for testing out Doxray",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "doxray-template": "~0.2.0"
+  }
+}
